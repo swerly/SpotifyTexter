@@ -1,0 +1,22 @@
+{
+  "name": "spotifytexter",
+  "version": "1.0.0",
+  "description": "Text to get some noice playlists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swerly",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "1.3.2",
+    "discord.js": "^11.3.0",
+    "express": "~4.0.0",
+    "ngrok": "^3.1.0",
+    "querystring": "~0.2.0",
+    "request": "~2.34.0",
+    "spotify-uri": "^1.0.0",
+    "twilio": "^3.23.1"
+  }
+}
